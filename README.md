@@ -12,14 +12,22 @@ Basic Classifier
 Machine Learning Problem: Build a classifier that differentiates images of dishes containing either rice or chips.
 Interest Point: The ability to distinguish between rice and chips, despite their similar coloration, showcases the model's sensitivity to subtle textural and shape differences, which is critical in real-world food classification tasks.
 Advanced Classifier
+
 Machine Learning Problem: Develop a classifier to predict whether a dish in an image is homemade or restaurant-made.
+
 Interest Point: This model explores the nuances of food presentation, highlighting how homemade dishes can often mirror the aesthetic appeal of restaurant dishes, challenging the classifier to discern fine details beyond mere appearance.
+
 Results
+
 Basic Model: Demonstrates robust performance with a marked accuracy in identifying chips, pointing to possible dataset biases.
+
 Advanced Model: Excels in recognizing homemade dishes, possibly due to training data characteristics, while still delivering reliable predictions for restaurant-made dishes.
 Conclusions
+
 Basic Classifier: Needs further refinement or data adjustment to enhance accuracy in rice identification.
+
 Advanced Classifier: Despite data imbalances, shows strong potential in generalizing across different types of dish presentations.
+
 Repository Structure
 basic_classifier.ipynb: Jupyter notebook for the basic classification tasks.
 advanced_classifier.ipynb: Jupyter notebook for the advanced classification tasks.
