@@ -1,4 +1,4 @@
-# Cuisine-Camouflage-Classifying-Meal-Origins
+# CuisineCamouflage-ClassificationModel for Meal Origins
 
 This project uses machine learning to classify dishes as homemade or restaurant-prepared, starting with a Basic Classifier for rice and chips, and advancing to an Advanced Classifier for detailed origin analysis, providing valuable insights for food businesses and enhancing consumer culinary experiences.
 
