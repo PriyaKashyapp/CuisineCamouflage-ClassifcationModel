@@ -20,6 +20,6 @@ Basic Model excels in chip identification but suggests dataset biases; Advanced 
 # NOTE : MLEnd Yummy dataset 
 The Yummy dataset, curated under the expert guidance of Professor Jesus Requena-Carrion at Queen Mary University of London, features a comprehensive collection of 3,250 food images, each meticulously annotated in a metadata CSV file with insights on food preferences and vegetarian categories, as per the MLEnd dataset documentation. This rich dataset, gathered by students including myself, serves as an excellent platform for developing skills in image preprocessing and feature extraction.
 
-For an in-depth look at the dataset and to understand the critical columns targeted in our analyses, refer to my repository, "Yummy," where you can also find the attached Excel file for a detailed breakdown.
+For an in-depth look at the dataset and to understand the critical columns targeted in our analyses, refer to my repository, "Yummy" where you can also find the attached Excel file for a detailed breakdown.
 
 A heartfelt shoutout to Professor Jesus for providing us with this invaluable opportunity to engage in a full-cycle machine learning experience, from data collection to system development!
