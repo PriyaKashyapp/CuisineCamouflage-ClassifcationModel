@@ -15,7 +15,7 @@ This project uses machine learning to classify dishes as homemade or restaurant-
 **Interest Point:** This model explores the nuances of food presentation, highlighting how homemade dishes can often mirror the aesthetic appeal of restaurant dishes, challenging the classifier to discern fine details beyond mere appearance.
 
 # **Project Outcomes:** 
-Basic Model excels in chip identification but suggests dataset biases; Advanced Model accurately recognizes homemade dishes amidst data imbalances, needing rice identification refinement and showing potential in diverse dish presentation analysis.**
+Basic Model excels in chip identification but suggests dataset biases; Advanced Model accurately recognizes homemade dishes amidst data imbalances, needing rice identification refinement and showing potential in diverse dish presentation analysis.
 
 # NOTE : MLEnd Yummy dataset 
 The Yummy dataset, curated under the expert guidance of Professor Jesus Requena-Carrion at Queen Mary University of London, features a comprehensive collection of 3,250 food images, each meticulously annotated in a metadata CSV file with insights on food preferences and vegetarian categories, as per the MLEnd dataset documentation. This rich dataset, gathered by students including myself, serves as an excellent platform for developing skills in image preprocessing and feature extraction.
